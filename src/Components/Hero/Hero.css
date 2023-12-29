@@ -1,6 +1,6 @@
 .hero{
     height: 100vh;
-    background: linear-gradient(180deg, #fed1ff,#e1ffea22, 60%);
+    background: linear-gradient(180deg, #fed1ff 0%,#e1ffea22 60%);
     display: flex;
 }
 
@@ -22,7 +22,7 @@
 
 .hero-left p{
     color: #171717;
-    font-size: 100px;
+    font-size: 65px;
     font-weight: 700;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .hero-hand-icon img{
-    width: 105px;
+    width: 100px;
 }
 
 .hero-latest-btn{
@@ -47,7 +47,7 @@
     margin-top: 35px;
     background-color: #ff4141;
     color: white;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 500;
 }
 
@@ -56,4 +56,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 90px;
+    margin-bottom: 20px;
 }
