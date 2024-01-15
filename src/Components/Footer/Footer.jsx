@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className='footer'>
         <div className="footer-logo">
-            <img src={footer_logo} alt="" width={80} height={80}/>
+            <img src={footer_logo} alt="" width={60} height={60}/>
             <p>Bucket Queue</p>
         </div>
         <ul className="footer-links">

@@ -13,7 +13,7 @@
 
 .nav-logo p{
     color: rgb(85, 85, 85);
-    font-size: 28px;
+    font-size: 25px;
     font-weight: 600;
 }
 
@@ -23,7 +23,7 @@
     list-style: none;
     gap: 50px;
     color: #626262;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
 }
 
@@ -68,8 +68,8 @@
 }
 
 .nav-cart-count{
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
